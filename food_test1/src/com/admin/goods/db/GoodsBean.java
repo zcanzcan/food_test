@@ -1,9 +1,9 @@
 package com.admin.goods.db;
 
 public class GoodsBean {
-	private int num;
-	private String category;
-	private String name;
+	private int num; //숫자
+	private String category; //카테고리
+	private String name; //이름
 	private String content;
 	private String size;
 	private String color;
